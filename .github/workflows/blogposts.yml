@@ -2,10 +2,17 @@ name: Latest blog post workflow
 on:
   push:
     branches:
-      - master
+      - main
+      - release/*
+  
+  pull_request:
+    branches:
+    - main
+  
   schedule:
-    # Runs every hour, on the hour
-    - cron: '0 * * * *'
+    # Runs every hour, on the hour.
+    - cron: "0 2 * * 1-5"
+    
   # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 
