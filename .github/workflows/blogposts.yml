@@ -25,6 +25,6 @@ jobs:
         with:
           author_name: RootProgrammer
           author_email: zamaan.md19@gmail.com
-          message: 'Update readme'
+          message: 'Update README'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
