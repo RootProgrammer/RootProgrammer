@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
+      - name: Get README the RSS Feed
+        uses: kohrongying/readme-the-rss@v1
+
         with:
           feed_url: https://zamaan.hashnode.dev/rss.xml
           count: 6 # default 5
