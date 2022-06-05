@@ -1,28 +1,30 @@
-name: Blog post workflow
+name: Latest blog post workflow
 on:
+  push:
+    branches:
+      - master
   schedule:
-    # Runs every day at 2pm UTC
-    - cron: '0 14 * * *'
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
+  # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
 
 jobs:
-  pull_blog_rss:
-    name: Update with latest blog posts
+  update-readme-with-blog:
+    name: Update with latest blog post
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Get README the RSS Feed
-        uses: RootProgrammer/readme-the-rss@v1
-
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://zamaan.hashnode.dev/rss.xml
-          count: 6 # default 5
-      - name: Commit file changes
-        run: |
-            git config --global user.name RootProgrammer
-            git config --global user.email zamaan.md19@gmail.com
-            git add .
-            git diff --quiet --cached || git commit -m "Update README"    
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          count: 6
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_name: RootProgrammer
+          author_email: zamaan.md19@gmail.com
+          message: 'Update readme'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
