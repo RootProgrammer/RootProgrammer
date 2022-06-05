@@ -20,7 +20,7 @@ jobs:
             git config --global user.name RootProgrammer
             git config --global user.email zamaan.md19@gmail.com
             git add .
-            git diff --quiet --cached || git commit -m "Update README"    
+            git commit -m "Update README"    
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
