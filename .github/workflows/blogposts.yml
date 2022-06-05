@@ -1,13 +1,9 @@
 name: Latest blog post workflow
 on:
+  pull_request:
   push:
     branches:
       - main
-      - release/*
-  
-  pull_request:
-    branches:
-    - main
   
   schedule:
     # Runs every hour, on the hour.
