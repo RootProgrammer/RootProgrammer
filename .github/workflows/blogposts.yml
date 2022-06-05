@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Get README the RSS Feed
-        uses: kohrongying/readme-the-rss@v1
+        uses: RootProgrammer/readme-the-rss@v1
 
         with:
           feed_url: https://zamaan.hashnode.dev/rss.xml
