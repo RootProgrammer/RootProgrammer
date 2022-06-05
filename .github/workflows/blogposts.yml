@@ -30,4 +30,4 @@ jobs:
           author_email: zamaan.md19@gmail.com
           message: 'Update README'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_TOKEN }}
