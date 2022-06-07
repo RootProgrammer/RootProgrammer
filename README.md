@@ -24,8 +24,8 @@
 - ⚡ Fun fact **Music Lover & Movieholic!**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 [![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 
 <h3 align="left">Connect with me:</h3>
