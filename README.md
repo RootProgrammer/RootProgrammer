@@ -25,6 +25,12 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
+- [What makes Go's compiler so FAST!?](https://zamaan.hashnode.dev/what-makes-gos-compiler-so-fast)
+- [Popular use cases of the Go Programming Language](https://zamaan.hashnode.dev/popular-use-cases-of-the-go-programming-language)
+- [Should you pass by value OR pass by address!?](https://zamaan.hashnode.dev/should-you-pass-by-value-or-pass-by-address)
+- [Want to start building websites & GUI apps in Go?](https://zamaan.hashnode.dev/want-to-start-building-websites-and-gui-apps-in-go)
+- [Go: What EXACTLY Should You Work On!?](https://zamaan.hashnode.dev/go-what-exactly-should-you-work-on)
+- [What's the MOST popular Go web library!?](https://zamaan.hashnode.dev/whats-the-most-popular-go-web-library)
 <!-- BLOGPOSTS:END -->
 [![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 
