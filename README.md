@@ -25,12 +25,12 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
+- [Coding Interview Preparation Plan](https://zamaan.hashnode.dev/coding-interview-preparation-plan)
 - [Details you might NOT know about go.mod & go.sum](https://zamaan.hashnode.dev/details-you-might-not-know-about-gomod-and-gosum)
 - [What makes Go's compiler so FAST!?](https://zamaan.hashnode.dev/what-makes-gos-compiler-so-fast)
 - [Popular use cases of the Go Programming Language](https://zamaan.hashnode.dev/popular-use-cases-of-the-go-programming-language)
 - [Should you pass by value OR pass by address!?](https://zamaan.hashnode.dev/should-you-pass-by-value-or-pass-by-address)
 - [Want to start building websites & GUI apps in Go?](https://zamaan.hashnode.dev/want-to-start-building-websites-and-gui-apps-in-go)
-- [Go: What EXACTLY Should You Work On!?](https://zamaan.hashnode.dev/go-what-exactly-should-you-work-on)
 <!-- BLOGPOSTS:END -->
 [![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 
