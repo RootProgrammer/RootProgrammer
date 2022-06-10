@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootprogrammer" alt="rootprogrammer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/root_programmer" target="blank"><img src="https://img.shields.io/twitter/follow/root_programmer?logo=twitter&style=for-the-badge" alt="root_programmer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/root_programmer" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/root_programmer?style=social"></a> </p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/RootProgrammer?style=social">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/RootProgrammer?color=%2300B14F&logo=github">
 
 - 🔭 I’m currently working on [Go 11 Projects](https://github.com/RootProgrammer/Go/tree/main/projects_go)
 
 - 🌱 I’m currently learning **Go, Gorilla Mux, Go Fiber, GORM, ML, DL**
 
-- 👨‍💻 All of my projects are available at [http://zamaan.pythonanywhere.com](http://zamaan.pythonanywhere.com)
+- 👨‍💻 All of my projects are available at [http://zamaan.pythonanywhere.com](http://zamaan.pythonanywhere.com) ![Website](https://img.shields.io/website?url=http%3A%2F%2Fzamaan.pythonanywhere.com)
 
 - 📝 I regularly write articles on [https://medium.com/@root_programmer](https://medium.com/@root_programmer)
 
@@ -36,24 +38,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://dev.to/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://twitter.com/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rootprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rootprogrammer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:9684519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:9684519" height="30" width="40" /></a>
-<a href="https://codesandbox.com/rootprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rootprogrammer" height="30" width="40" /></a>
-<a href="https://kaggle.com/zamaan124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zamaan124" height="30" width="40" /></a>
-<a href="https://fb.com/nz.zamaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nz.zamaan" height="30" width="40" /></a>
-<a href="https://instagram.com/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rootprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rootprogrammer" height="30" width="40" /></a>
-<a href="https://medium.com/@root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@root_programmer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rootprogrammer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rootprogrammer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@engr.zamaan.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@engr.zamaan.cse" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/root_programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="root_programmer" height="30" width="40" /></a>
-<a href="https://zamaan.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zamaan.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://codepen.io/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://dev.to/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://twitter.com/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rootprogrammer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rootprogrammer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:9684519" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:9684519" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rootprogrammer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rootprogrammer" height="30" width="40" /></a>
+<a href="https://kaggle.com/zamaan124" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zamaan124" height="30" width="40" /></a>
+<a href="https://fb.com/nz.zamaan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nz.zamaan" height="30" width="40" /></a>
+<a href="https://instagram.com/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rootprogrammer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rootprogrammer" height="30" width="40" /></a>
+<a href="https://medium.com/@root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@root_programmer" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rootprogrammer" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rootprogrammer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@engr.zamaan.cse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@engr.zamaan.cse" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/root_programmer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="root_programmer" height="30" width="40" /></a>
+<a href="https://zamaan.hashnode.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zamaan.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
