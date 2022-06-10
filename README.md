@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZamaaN</h1>
 <h3 align="center">Go & Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="rootprogrammer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootprogrammer&label=Profile%20views&color=00B14f&style=flat" alt="rootprogrammer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootprogrammer" alt="rootprogrammer" /></a> </p>
 
