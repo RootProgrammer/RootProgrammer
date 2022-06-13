@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootprogrammer" alt="rootprogrammer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/root_programmer" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/root_programmer?style=social"></a> </p>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/RootProgrammer?style=social">
 <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/RootProgrammer?color=%2300B14F&logo=github">
 
 - 🔭 I’m currently working on [Go 11 Projects](https://github.com/RootProgrammer/Go/tree/main/projects_go)
