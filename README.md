@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [http://zamaan.pythonanywhere.com](http://zamaan.pythonanywhere.com) ![Website](https://img.shields.io/website?url=http%3A%2F%2Fzamaan.pythonanywhere.com)
 
-- 📝 I regularly write articles on [https://medium.com/@root_programmer](https://medium.com/@root_programmer)
+- 📝 I regularly write articles on [https://zamaan.hashnode.dev](https://zamaan.hashnode.dev)
 
 - 💬 Ask me about **Go & Python**
 
