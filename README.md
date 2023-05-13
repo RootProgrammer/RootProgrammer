@@ -65,6 +65,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootprogrammer&show_icons=true&locale=en&layout=compact" alt="rootprogrammer" /></p><br><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rootprogrammer&show_icons=true&locale=en" alt="rootprogrammer" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rootprogrammer&show_icons=true&locale=en" alt="rootprogrammer" /></p><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rootprogrammer&" alt="rootprogrammer" /></p>
