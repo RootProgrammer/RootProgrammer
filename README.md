@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZamaaN</h1>
-<h3 align="center">Go & Python Developer</h3>
+<h3 align="center">Software Engineer @ imranslab</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootprogrammer&label=Profile%20views&color=00B14f&style=flat" alt="rootprogrammer" /> </p>
 
