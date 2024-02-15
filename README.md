@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://zamaan.hashnode.dev](https://zamaan.hashnode.dev)
 
-- 💬 Ask me about **Go & Python**
+- 💬 Ask me about **Software Engineering!**
 
 - 📫 How to reach me **engr.zamaan.cse@gmail.com**
 
