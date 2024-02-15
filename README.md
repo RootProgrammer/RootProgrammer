@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/root_programmer" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/root_programmer?style=social"></a> </p>
 <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/RootProgrammer?color=%2300B14F&logo=github">
 
-- 🔭 I’m currently working on [Go 11 Projects](https://github.com/RootProgrammer/Go/tree/main/projects_go)
+- 🔭 I’m currently working on [Chat System Blueprint](https://github.com/RootProgrammer/chat-system-blueprint)
 
-- 🌱 I’m currently learning **Go, Gorilla Mux, Go Fiber, GORM, ML, DL**
+- 🌱 I’m currently learning **Flutter, FastAPI**
 
 - 👨‍💻 All of my projects are available at [http://zamaan.pythonanywhere.com](http://zamaan.pythonanywhere.com) ![Website](https://img.shields.io/website?url=http%3A%2F%2Fzamaan.pythonanywhere.com)
 
