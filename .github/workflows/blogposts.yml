@@ -8,7 +8,7 @@ on:
   schedule:
     # Runs every Monday to Friday, at 02:00.
     - cron: '0 2 * * 1-5'
-  workflow_dispatch: {} # Corrected by removing the colon
+  workflow_dispatch: {}
 
 jobs:
   update-readme-with-blog:
@@ -17,14 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Get RSS Feed # Added a 'name' field to correct format
+      - name: Get RSS Feed
         uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://zamaan.hashnode.dev/rss.xml
           count: 6
 
       - name: Medium Feed
-      - uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with: 
           max_post_count: "6"
           feed_list: "https://dev.to/feed/root_programmer, https://medium.com/feed/@root_programmer"
