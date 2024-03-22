@@ -18,11 +18,13 @@
 
 - 📫 How to reach me **zamaan.md19@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/fpnjqswscqkz#2dcaa2](https://www.overleaf.com/read/fpnjqswscqkz#2dcaa2)
+- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/fpnjqswscqkz#2dcaa2)
 
 - ⚡ Fun fact **Music Lover & Movieholic!**
 
-### Blogs posts
+<br>
+
+[![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 <!-- BLOG-POST-LIST:START -->
 - [Coding Interview Preparation Plan](https://zamaan.hashnode.dev/coding-interview-preparation-plan)
 - [Details you might NOT know about go.mod &amp; go.sum](https://zamaan.hashnode.dev/details-you-might-not-know-about-gomod-and-gosum)
@@ -35,7 +37,6 @@
 - [What&#39;s the MOST popular Go web library!?](https://zamaan.hashnode.dev/whats-the-most-popular-go-web-library)
 - [What makes Go’s compiler so FAST!?](https://medium.com/@root_programmer/what-makes-gos-compiler-so-fast-d7d7a708b0d6?source=rss-9012f3cb175b------2)
 <!-- BLOG-POST-LIST:END -->
-[![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 
 
 <h3 align="left">Connect with me:</h3>
