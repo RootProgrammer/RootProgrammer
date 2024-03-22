@@ -20,8 +20,8 @@ jobs:
       - name: Get RSS Feed
         uses: gautamkrishnar/blog-post-workflow@master
         with: 
-          max_post_count: "6"
-          feed_list: "https://zamaan.hashnode.dev/rss.xml, https://dev.to/feed/root_programmer, https://medium.com/feed/@root_programmer"
+          max_post_count: "19"
+          feed_list: "https://dev.to/feed/root_programmer.rss, https://medium.com/feed/@root_programmer, https://zamaan.hashnode.dev/rss.xml"
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v4
