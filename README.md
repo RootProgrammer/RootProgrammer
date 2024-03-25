@@ -1,5 +1,8 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm ZamaaN</h1>
-<h3 align="center">Software Engineer</h3>
+[![MasterHead](https://github.com/RootProgrammer/media-hub/blob/main/animated-banners/laptop.gif)](https://profiles.topcoder.com/root_programmer)
+
+<h1 align="center">Hi<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+, I'm ZamaaN<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2763_fe0f/512.gif" alt="❣" width="32" height="32"></h1>
+<h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">Software Engineer<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RootProgrammer&label=Profile%20views&color=00B14f&style=flat" alt="RootProgrammer" /> </p>
 
@@ -8,19 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/root_programmer" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/root_programmer?style=social"></a> </p>
 
-- 🔭 I’m currently working on [Chat System Blueprint](https://github.com/RootProgrammer/chat-system-blueprint)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"> I’m currently working on [Chat System Blueprint](https://github.com/RootProgrammer/chat-system-blueprint)
 
-- 🌱 I’m currently learning **Flutter, FastAPI, ReactJS, Node.js**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> I’m currently learning **Flutter, FastAPI, ReactJS, Node.js**
 
-- 📝 I regularly write articles on [https://zamaan.hashnode.dev/](https://zamaan.hashnode.dev/)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"> I regularly write articles on [https://zamaan.hashnode.dev/](https://zamaan.hashnode.dev/)
 
-- 💬 Ask me about **Software Engineering🧑‍💻**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2753/512.gif" alt="❓" width="32" height="32"> Ask me about **Software Engineering<img src="https://github.com/RootProgrammer/media-hub/blob/main/animated-emojis/skills.gif" alt="</>" width="24" height="24">**
 
-- 📫 How to reach me **zamaan.md19@gmail.com**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> How to reach me **zamaan.md19@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/fpnjqswscqkz#2dcaa2)
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"> Know about my experiences [Resume](https://www.overleaf.com/read/fpnjqswscqkz#2dcaa2)
 
-- ⚡ Fun fact **Music Lover & Movieholic!**
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"> Fun fact **Music Lover & Movieholic!**
 
 <br>
 
