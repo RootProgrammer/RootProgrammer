@@ -23,10 +23,10 @@
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"> Fun fact **Music Lover & Movieholic!**
 
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"> <a href="https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.pdf" download="jaman-uddin.pdf">Know about my experiences</a>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"> Know about my experiences
 
 
-  ![Resume](https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.png?raw=true "Jaman Uddin's Resume")
+  [![Resume](https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.png?raw=true "Jaman Uddin's Resume")](https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.pdf)
   <!-- Make sure to append ?raw=true to the URL to get the raw, viewable image instead of the GitHub page for the image file. -->
   <!-- <img src="https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.png" alt="Jaman Uddin's Resume" width="595" height="842"> -->
 
