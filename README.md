@@ -26,7 +26,7 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"> Know about my experiences
 
 
-  [![Resume](https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.png?raw=true "Jaman Uddin's Resume")](https://www.dropbox.com/scl/fi/u0ag8j8j2alsgdiq5tidh/jaman-uddin.pdf?rlkey=x1k2s99yt54u176dl6bp99so5&dl=0)
+  [![Resume](https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.png?raw=true "Jaman Uddin's Resume")](https://www.dropbox.com/scl/fi/u0ag8j8j2alsgdiq5tidh/jaman-uddin.pdf?rlkey=x1k2s99yt54u176dl6bp99so5&dl=0 "Jaman Uddin's Resume")
   <!-- Make sure to append ?raw=true to the URL to get the raw, viewable image instead of the GitHub page for the image file. -->
   <!-- <img src="https://github.com/RootProgrammer/Resume/blob/main/resume/jaman-uddin.png" alt="Jaman Uddin's Resume" width="595" height="842"> -->
 
