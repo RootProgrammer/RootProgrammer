@@ -33,6 +33,7 @@
 
 [![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Understanding JavaScript: A Comprehensive Guide to Key Concepts](https://zamaan.hashnode.dev/understanding-javascript-a-comprehensive-guide-to-key-concepts)
 - [Understanding Big O Notation](https://zamaan.hashnode.dev/understanding-big-o-notation)
 - [Coding Interview Preparation Plan](https://zamaan.hashnode.dev/coding-interview-preparation-plan)
 - [Details you might NOT know about go.mod &amp; go.sum](https://zamaan.hashnode.dev/details-you-might-not-know-about-gomod-and-gosum)
