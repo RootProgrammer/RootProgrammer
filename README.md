@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/RootProgrammer/media-hub/blob/main/animated-banners/laptop.gif)](https://profiles.topcoder.com/root_programmer)
 
 <h1 align="center">Hi<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-, I'm ZamaaN<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2763_fe0f/512.gif" alt="❣" width="32" height="32"></h1>
+, I'm ZamaaN<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.gif" alt="💗" width="32" height="32"></h1>
 <h3 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">Full Stack Generalist Software Engineer<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RootProgrammer&label=Profile%20views&color=00B14f&style=flat" alt="RootProgrammer" /> </p>
