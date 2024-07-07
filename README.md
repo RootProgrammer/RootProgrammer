@@ -91,7 +91,7 @@
   <br><br>
   
   <!-- Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootprogrammer&show_icons=true&locale=en&layout=compact&theme=github" height="180em" alt="rootprogrammer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootprogrammer&show_icons=true&locale=en&layout=compact&theme=github" height="180em" alt="rootprogrammer" /><br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RootProgrammer&theme=github" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RootProgrammer&theme=github" height="180em" />
   <br><br>
