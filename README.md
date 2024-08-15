@@ -33,6 +33,7 @@
 
 [![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Why JavaScript Runtime Environments Need C and C++](https://zamaan.hashnode.dev/why-javascript-runtime-environments-need-c-and-c)
 - [Understanding JavaScript: A Comprehensive Guide to Key Concepts](https://zamaan.hashnode.dev/understanding-javascript-a-comprehensive-guide-to-key-concepts)
 - [Understanding Big O Notation](https://zamaan.hashnode.dev/understanding-big-o-notation)
 - [Coding Interview Preparation Plan](https://zamaan.hashnode.dev/coding-interview-preparation-plan)
