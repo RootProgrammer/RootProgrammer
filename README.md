@@ -48,6 +48,7 @@
 - [Go: What EXACTLY Should You Work On!?](https://zamaan.hashnode.dev/go-what-exactly-should-you-work-on)
 - [What&#39;s the MOST popular Go web library!?](https://dev.to/root_programmer/whats-the-most-popular-go-web-library-hia)
 - [What&#39;s the MOST popular Go web library!?](https://zamaan.hashnode.dev/whats-the-most-popular-go-web-library)
+- [What makes Go’s compiler so FAST!?](https://medium.com/@root_programmer/what-makes-gos-compiler-so-fast-d7d7a708b0d6?source=rss-9012f3cb175b------2)
 <!-- BLOG-POST-LIST:END -->
 <br><br>
 
