@@ -24,10 +24,14 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="32" height="32"> Fun fact **Music Lover & Movieholic!**
 <!-- RESUME -->
 <h3 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32"> Know About My Experiences</h3>
+<!--
 <a href="https://drive.google.com/file/d/1wVk-32lpsKMBBzz6Ev8xMIivWe1REUwp/view?usp=sharing" target="_blank" rel="noopener noreferrer" title="Jaman Uddin's Resume">
   <img src="https://github.com/RootProgrammer/Resume/blob/main/resume/job-oriented-resume/star-coder-resume/jaman-uddin.png?raw=true" alt="Jaman Uddin's Resume" />
 </a>
+-->
 <!-- Make sure to append ?raw=true to the URL to get the raw, viewable image instead of the GitHub page for the image file. -->
+
+[![Resume](https://github.com/RootProgrammer/Resume/blob/main/resume/job-oriented-resume/star-coder-resume/jaman-uddin.png?raw=true)](https://drive.google.com/file/d/1wVk-32lpsKMBBzz6Ev8xMIivWe1REUwp/view?usp=sharing){:target="_blank"}
 
 <br><br>
 
