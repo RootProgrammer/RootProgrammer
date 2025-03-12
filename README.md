@@ -40,7 +40,24 @@
 
 [![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 <!-- BLOG-POST-LIST:START -->
+- [From Candidate to In-Demand Tech Pro: 6 Months to Captivate Employers](https://zamaan.hashnode.dev/from-candidate-to-in-demand-tech-pro-6-months-to-captivate-employers)
+- [Achieve Smooth Workflows: Best Practices for Next.js and Node.js Environment Management](https://zamaan.hashnode.dev/achieve-smooth-workflows-best-practices-for-nextjs-and-nodejs-environment-management)
+- [How to Perfectly Manage Python Virtual Environments with Pyenv and Direnv](https://zamaan.hashnode.dev/how-to-perfectly-manage-python-virtual-environments-with-pyenv-and-direnv)
+- [Ultimate Cybersecurity Exploration with Browser Network Tools](https://zamaan.hashnode.dev/ultimate-cybersecurity-exploration-with-browser-network-tools)
+- [Mastering CTF Web Challenges: The Essential Toolkit for Hackers of All Levels](https://zamaan.hashnode.dev/mastering-ctf-web-challenges-the-essential-toolkit-for-hackers-of-all-levels)
+- [The Vastness of JavaScript: Navigating the Ever-Growing Ecosystem](https://zamaan.hashnode.dev/the-vastness-of-javascript-navigating-the-ever-growing-ecosystem)
+- [Why JavaScript Runtime Environments Need C and C++](https://zamaan.hashnode.dev/why-javascript-runtime-environments-need-c-and-c)
+- [Understanding JavaScript: A Comprehensive Guide to Key Concepts](https://zamaan.hashnode.dev/understanding-javascript-a-comprehensive-guide-to-key-concepts)
+- [Understanding Big O Notation](https://zamaan.hashnode.dev/understanding-big-o-notation)
+- [Coding Interview Preparation Plan](https://zamaan.hashnode.dev/coding-interview-preparation-plan)
+- [Details you might NOT know about go.mod &amp; go.sum](https://zamaan.hashnode.dev/details-you-might-not-know-about-gomod-and-gosum)
+- [What makes Go&#39;s compiler so FAST!?](https://zamaan.hashnode.dev/what-makes-gos-compiler-so-fast)
+- [Popular use cases of the Go Programming Language](https://zamaan.hashnode.dev/popular-use-cases-of-the-go-programming-language)
+- [Should you pass by value OR pass by address!?](https://zamaan.hashnode.dev/should-you-pass-by-value-or-pass-by-address)
+- [Want to start building websites &amp; GUI apps in Go?](https://zamaan.hashnode.dev/want-to-start-building-websites-and-gui-apps-in-go)
+- [Go: What EXACTLY Should You Work On!?](https://zamaan.hashnode.dev/go-what-exactly-should-you-work-on)
 - [What&#39;s the MOST popular Go web library!?](https://dev.to/root_programmer/whats-the-most-popular-go-web-library-hia)
+- [What&#39;s the MOST popular Go web library!?](https://zamaan.hashnode.dev/whats-the-most-popular-go-web-library)
 - [What makes Go’s compiler so FAST!?](https://medium.com/@root_programmer/what-makes-gos-compiler-so-fast-d7d7a708b0d6?source=rss-9012f3cb175b------2)
 <!-- BLOG-POST-LIST:END -->
 <br><br>
