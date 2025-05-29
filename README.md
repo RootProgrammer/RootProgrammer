@@ -41,6 +41,7 @@
 [![Latest blog post workflow](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml/badge.svg?branch=main)](https://github.com/RootProgrammer/RootProgrammer/actions/workflows/blogposts.yml)
 <!-- BLOG-POST-LIST:START -->
 - [What&#39;s the MOST popular Go web library!?](https://dev.to/root_programmer/whats-the-most-popular-go-web-library-hia)
+- [What makes Go’s compiler so FAST!?](https://medium.com/@root_programmer/what-makes-gos-compiler-so-fast-d7d7a708b0d6?source=rss-9012f3cb175b------2)
 <!-- BLOG-POST-LIST:END -->
 <br><br>
 
